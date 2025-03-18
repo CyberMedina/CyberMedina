@@ -1,4 +1,4 @@
-<h1 align="center">Hola 😎, soy Medina Jhonatan</h1>
+<h1 align="center">Medina Jhonatan</h1>
 <h3 align="center">Egresado de la carrera de ingeniería de sistemas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybermedina&label=Profile%20views&color=0e75b6&style=flat" alt="cybermedina" /> </p>
