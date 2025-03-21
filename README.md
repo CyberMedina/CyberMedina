@@ -1,10 +1,6 @@
 <h1 align="center">👋 ¡Hola, soy Medina Jhonatan!</h1>
 <h3 align="center">👨‍💻 Egresado de Ingeniería en Sistemas</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cybermedina&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="cybermedina" />
-</p>
-
 ---
 
 ## 🚀 Sobre mí  
