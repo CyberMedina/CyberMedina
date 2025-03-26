@@ -58,7 +58,6 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=cybermedina&show_icons=true&locale=es" alt="cybermedina" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybermedina&" alt="cybermedina" />
 </div>
 
 
